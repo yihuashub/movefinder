@@ -1,0 +1,56 @@
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.pdb
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\bin\Debug\finalProject.exe.config
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.exe
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.pdb
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\bin\Debug\finalProject.exe
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\bin\Debug\finalProject.pdb
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.New.resources
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.New.resources
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.viewPanel.resources
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.viewPanel.resources
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.Edit.resources
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.getInsertBox1.resources
+C:\Users\Huang\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.viewList.resources
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\bin\Debug\finalProject.exe.config
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.exe
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.pdb
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\bin\Debug\finalProject.exe
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\bin\Debug\finalProject.pdb
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.Edit.resources
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.Form1.resources
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.getInsertBox1.resources
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.New.resources
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.viewList.resources
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.viewPanel.resources
+C:\Users\jianwen\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.Edit.resources
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.getInsertBox1.resources
+Z:\Superrock On My Mac\Dropbox\COMP 3020\Ass3\finalProject\finalProject\obj\Debug\finalProject.viewList.resources
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\bin\Debug\finalProject.exe.config
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\bin\Debug\finalProject.exe
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\bin\Debug\finalProject.pdb
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.csprojResolveAssemblyReference.cache
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.Edit.resources
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.Form1.resources
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.getInsertBox1.resources
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.New.resources
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.viewList.resources
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.viewPanel.resources
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.csproj.GenerateResource.Cache
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.exe
+E:\Windows\Documents\Projects\windowsProject\movefinder\finalProject\obj\Debug\finalProject.pdb
